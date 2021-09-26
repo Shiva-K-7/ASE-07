@@ -1,0 +1,226 @@
+,repo_name,Description,stargazers_count,forks_count,num_model_file,updated-created,cluster1
+0,ECAN_dspic,An ECAN library for the dsPIC33f in both C and Simulink,0,7,3,2459,1
+1,truetime,TrueTime is a Matlab/Simulink-based simulator for real-time control systems.,4,18,22,3085,1
+2,launchpad_ert,Simulink (Embedded Coder) Target for TI LaunchPad,7,5,11,2684,1
+3,osx-sl-joystick,Access Joysticks in Simulink on OSX,1,0,1,545,0
+4,simulink-rtl-sdr,An Open Source Software Package that enables owners of DVB-T dongles with an embedded Realtek RTL2832U chipset to build models in Simulink that interface with the device in realtime,27,17,2,2415,1
+5,simulink-uhd,A Simulink blockset that enables owners of UHD-compatible Universal Software Radio Peripherals (USRP) from Ettus Research to build models in MATLAB Simulink that interface with the device in real-time.,3,4,2,1967,1
+6,aria-matlab,OUTDATED Matlab and Simulink Interfaces for ARIA -- most up to date code can now be found with the ARIA library package -- see website,4,7,8,1333,1
+7,stellaris_ert,Simulink (Embedded Coder) Target for TI Stellaris LaunchPad,10,10,20,2558,1
+8,microdaq_ert,Simulink (Embedded Coder) Target for MicroDAQ Real-Time Measurement System,2,1,29,2242,1
+9,simulink_BetterPortOrder,Simulink tools to optimally connect different subsystems,0,0,1,1759,1
+10,simulink_exercise_fixedpoint,Script which tries to run a Simulink model using the fixed point toolbox.,0,0,3,32,0
+11,AR_Drone_Simulink,ARDrone for Simulink DevKit_V1,5,3,6,2175,1
+12,T-MATS,"An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines. Keywords: TMATS, Control System, Numerical Methods, Newton-Raphson, Jacobian Calculation, Propulsion, Aircraft Engine, Jet, Turbofan, Turbojet, Compressor, Turbine, Nozzle, Inlet, open source",128,91,168,2239,1
+13,hyperloop_sl,Hyperloop model in Simulink for collaboration,19,13,13,2124,1
+14,MathWorks_tools,Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products,47,122,39,2110,1
+15,mpc-robot,Simulink software for the MPC555-based embedded robot controller,0,1,12,68,0
+16,Stateflow_examples,Examples of Mealy and Moor State Machines in Simulink Stateflow,0,0,2,2,0
+17,RaspberryPiRobot,Control a Raspberry Pi powered robot with MATLAB and Simulink,9,7,1,1885,1
+18,Remote-Robot-Simulink,A software in the loop simulation using Simulink of a robot based on the model described in http://www.csl.sri.com/~shankar/ModelRob.tar,0,0,9,0,0
+19,Stimela,Stimela is an environment for standardised mathematical models of drinking water treatment processes in Matlab/Simulink,5,6,79,1737,1
+20,matudp,Bus communication layer and data logger for Simulink Real Time (xPC Target),0,1,22,1932,1
+21,massif,Massif is a Matlab Simulink Integration Framework for Eclipse,17,10,43,1920,1
+22,Simulink,Various Simulink patches,0,0,2,0,0
+23,RobotModel,Math model of robot for Simulink course,0,1,1,696,0
+24,matlab_ros_bridge,Set of simulink s-functions to communicate with ROS,18,16,9,1855,1
+25,minJerk,Example of how to model systems with Simulink and generate the code,4,0,1,1534,1
+26,TORCSLink,An interface between The Open Source Race Car Simulator (TORCS) and MATLAB/Simulink (or anything else...),12,12,1,1857,1
+27,Simulink-Eigen3,"Using Eigen3 to accelerate Simulink; e.g. matrix multiplication; these s-functions can also be used with Simulink Coder; e.g. to accelearte huge matrix multiplication by using AVX2, FMA, AVX, SSE3, ... on a x86 platform",3,1,4,1706,1
+28,pattern-observers,A repository that captures the derived Lustre and Simulink Design Verifier synchronous observers for the specification patterns work at http://patterns.projects.cis.ksu.edu/,1,0,6,764,0
+29,LeanPulse-SyD,The LeanPulse System Documents generator (SyD) is a powerful tool enabling easy and fast generation of rich PDF documents from your Simulink® and Xcos models.,0,0,7,3,0
+30,simulink-parser-py,Simulink parser using pyparsing,2,0,2,1472,1
+31,apolom,Test oracle tool for Simulink models (Matlab 2008b),0,0,1,0,0
+32,SimulinkARDroneTarget,Deploy MATLAB Simulink model automatically to Parrot AR Drone with Embedded Coder C code generation,16,23,40,1657,1
+33,skyward-simulink-blockset,This repository contains the Simulink blockset for Sensors used on the calibration platform,1,0,1,1361,1
+34,Quadcopter-FYP-legacy,"Contains C++ microcontoller code, Maltab code, simulink smulations, full reports, and related documents for an FYP in quadcopter control",0,0,70,0,0
+35,simulation-fahrzeugfederung,"Kontinuierliche, analoge Simulation einer Fahrzeugfederung mit MATLAB/Simulink, WinFACT, Scilab / Scicos, WinDORA",0,0,2,29,0
+36,simulink2mavlink,Routines for getting mavlink packets from raw data in Matlab and simulink real-time for use in simulations,0,1,2,0,0
+37,RCAMAircraftVisualization,Matlab/Simulink files necessary to visualize and render the Research Civil Aircraft Model (RCAM) simulation.,0,11,1,0,0
+38,Matlab,"MicroDAQ software package allows using MicroDAQ device with Matlab/Simulink software. Software can be used for data acquisition and for code generation from Simulink diagram. External, PIL, Standalone application can be generated. ",1,0,20,1352,1
+39,simulinkWatchdogs,Watchdog timer and counter for simulink,0,0,2,0,0
+40,bibliotheque_SII,Bibliothèque de composants Matlab/Simulink/Simscape pour l'enseignement des Sciences Industrielles de l'Ingénieur,1,0,6,1694,1
+41,ibm_scara_7575_controller,Controller for the ancient IBM SCARA 7575 Robot using Code generated by Matlab Simulink for the STM32 F4,0,1,2,255,0
+42,qrsim2,"Quadrotor / UAV Simulator using Matlab, Simulink and Flightgear Visualization",22,13,6,1655,1
+43,protosim,Simulink protobuf modulue,0,0,2,3,0
+44,Simulink_AR_Drone,Deploy MATLAB Simulink model automatically to Parrot AR Drone with Embedded Coder C code generation,0,2,17,0,0
+45,fluffy-woof,MATLAB/Simulink shenanigans,0,0,1,0,0
+46,redis-simulink,Example of a C Simulink S-Function block implementing a REDIS connector to interact with a REDIS server.,5,2,1,1179,1
+47,HTWAA_car_32b,Software for self driving model car with Cortex M4 and MATLAB Simulink,0,0,4,2,0
+48,skyward-blimp-blockset,This repo contain the simulink blockset used during the ASGN&C course held at Politecnico di Milano,0,1,4,90,0
+49,sym-simulink,symbolic and concrete execution environment for Simulink,0,1,3,25,0
+50,simulink-hackrf,Simulink blockset and MATLAB functions to interface with HackRF devices in real-time,22,13,3,1424,1
+51,daqbeagle,Simulink/Matlab library and target for data aquisition via the beaglebone black in real-time,2,1,3,1371,1
+52,wb-toolbox,Simulink toolbox to rapidly prototype robot controllers,12,9,2,1516,1
+53,crazyflie-client-matlab,Matlab/Simulink client to control Crazyflie Quadcopter,0,3,4,64,0
+54,MatTrans,MATTRANS - A MATLAB(R)/Simulink Power System Transient Stability Simulation Package,5,4,40,1463,1
+55,sphinx-simulink,Python Sphinx plugin to include MATLAB Simulink models (e.g. diagrams or information) into .rst documentation,1,1,3,696,0
+56,simulink-utils,A Collection of useful Simulink utilities,4,0,1,1409,1
+57,MATLAB-Tutorials,"Image Processing MATLAB Codes, Simulink, GUI, and Standalone Applications",11,15,1,1343,1
+58,RCK_Project,MATLAB/Simulink RCK Project,0,0,1,0,0
+59,apollo,Apollo Lunar Lander Simulator with Simulink Control,0,0,3,0,0
+60,PlanarUEModel,Simulink Model of Planar Arm Movements for Real-Time Control,0,0,1,10,0
+61,CityDrain2,CITY DRAIN 2 is an open source toolbox for integrated modelling of urban drainage systems realized in Matlab/Simulink.,1,2,4,572,0
+62,SimulinkLibraryForJava,Fork of https://www.cqse.eu/en/products/simulink-library-for-java/overview/,0,0,64,0,0
+63,Modbus-Matlab-Simulator,A Matlab/Simulink library that allows basic Modbus/TCP read and write operations,4,4,1,1289,1
+64,cessna-control,A Matlab and Simulink project. The purpose is to control the altitude of a Cessna Citation 500 aircraft.,0,1,5,1214,1
+65,course_simulink,Examples and Exercises for the Simulink Course 2016-2017,3,3,28,1194,1
+66,BLDC_Simulink,Simulink Simulation of BLDC Motor,1,0,1,579,0
+67,CompliantJointToolbox,Compliant Joint Toolbox (CJT) for MATLAB and Simulink,11,7,23,1311,1
+68,Matlab-Simulink-Kinect-Ball-Tracking,Real time single object tracking in MATLAB/Simulink with Kinect v1.,1,0,1,1183,1
+69,JSBSim-Matlab-Simulink,for reference only -> S function for Simulink integration,0,0,1,915,0
+70,cbc_simulink,Interface between Matlab Simulink simulations and control-based continuation algorithms,1,0,1,1082,1
+71,mbed_target,Mbed OS 5 Simulink and Embedded Coder Target,13,4,116,1225,1
+72,STOICAL,A Toolbox for Efficient Parameter and Structure Variation of Simulation Models in Simulink,1,0,20,59,0
+73,Central-Difference-Kalman-Filter,Implement a generic central difference Kalman Filter (CDKF) in MATLAB/ Simulink. matlab.System object,1,0,1,673,0
+74,kinect2-SDK-for-Simulink,A collection of s-functions that allow to interface kinect2 SDK body tracking system with Matlab Simulink,1,0,1,1116,1
+75,slQuery,easy-as-pie API to Simulink,1,0,2,892,0
+76,kukaslxctrl,A small library intended for controlling KUKA robots using KRC4 over KUKA RSI (Robot Sensor Interface) from Simulink.,6,1,2,983,1
+77,arduinoSimulink,Drivers and Examples for usage of MATLAB/Simulink with Arduino,1,3,3,928,0
+78,SiPh_Simulink,Simulink Library for Silicon Photonics Systems Simulation,8,2,5,948,0
+79,catvehicle_simulink,Simulink models used in conjunction with the catvehicle project.,1,1,6,449,0
+80,or_kiwi_control,Matlab code and Simulink blocks for controlling the Kiwi SCARA robot.,0,0,1,305,0
+81,qbmove-simulink,Simulink libraries for qbmove device and customizations,1,1,47,854,0
+82,openmeta-simulink,"Simulink integration for OpenMETA, built using generic interfaces",1,0,1,838,0
+83,Automated-Paint-Machine,"(matlab, simulink)",0,1,6,826,0
+84,RLC-Circuits,Modeling RLC circuits response by MATLAB & Simulink,2,0,1,867,0
+85,sliding-mode-inverted-pendulum,Simulink implementations of sliding mode and LQR controller for rotary inverted pendulum,4,1,2,983,1
+86,NoiseCancelingHeadPhone,use simulink to make a little Demo of Noise Canceling HeadPhone. Project of Signals And Systems Spr17@SIST Shanghaitech University.,0,1,3,247,0
+87,HyEQ_Toolbox,"The Hybrid Equation (HyEQ) Toolbox is implemented in MATLAB/Simulink for the simulation of hybrid dynamical systems. This toolbox is capable of simulating individual and interconnected hybrid systems with inputs. Examples of systems that can be simulated include a bouncing ball on a moving platform, fireflies synchronizing their flashing, and more. The Simulink implementation includes four basic blocks that define the dynamics of a hybrid system. These include a flow map, flow set, jump map, and jump set. The flows and jumps of the system are computed by the integrator system which is comprised of blocks that compute the continuous dynamics of the hybrid system, trigger jumps, update the state of the system and simulation time at jumps, and stop the simulation. Also includes a “lite simulator” which allows for faster simulation without using Simulink.",0,1,28,0,0
+88,Matlab-Simulink,Matlab programs and Simulink models,0,0,3,2,0
+89,modem-phy,MATLAB/Simulink Physical layer design for wireless modem,1,1,21,346,0
+90,trunk-robot-model-generator,Set of MATLAB scripts to generate Simulink models of elephant trunk robotic manipulators,0,0,4,0,0
+91,spherical-robot-model,Simulink models of the spherical ball robot,0,0,2,267,0
+92,thermoelectric,This is a Simulink toolkit for predicting the behaviour of a thermoelectric generator,0,1,9,0,0
+93,L1_AC,This is a project where an Adaptive Flight Control based on L1 adaptive control is designed and tested using MATLAB/Simulink  [ L1 adaptive control code ],9,13,2,815,0
+94,CNC.Simulink,A CNC simulator in Simulink... a work in progress,2,0,1,392,0
+95,SDF-MATLAB,A MATLAB / Simulink library to work with the Scientific Data Format,6,0,3,817,0
+96,udp-simulator,"Simulink Framework to run MIL, SIL, and HIL.  This example simulates a udp client.",0,0,2,0,0
+97,IRIG-B_for_RT,IRIG-B Signal Generator Code in Matlab/Simulink for use with Real-Time Simulators,2,0,2,378,0
+98,simulink-high-low-bandpass-laplacian-filter,"Simulink Model to Simulate Low Pass , High Pass , Band Pass , Band Reject and Laplacian Filter",0,0,10,0,0
+99,power-system-models,Simulink models for electric power systems use cases.,0,0,1,0,0
+100,DISCON_Simulink,Tool to compile a Bladed style DLL controller from Simulink for use in OpenFAST or Bladed,0,2,3,693,0
+101,Omega6_Simulink_Integration,This repository contains the necessary files/ setup steps /codes to interface the haptic device Omega6 with Simulink,0,0,1,104,0
+102,cocoSim2,Automated Analysis Framework for Simulink/Stateflow,8,2,28,890,0
+103,OrbitPropagator,Simple J2 propagator modeled in Simulink,2,1,1,737,0
+104,AttitudePropagator,A satellite attitude propagator built upon J2 orbit propagator (with a VRML visualisation option) in Simulink.,1,0,1,737,0
+105,Exploring-Design-Verifier,A set of Simulink blocks to explore Design Verifier in Flight Controls,0,0,14,0,0
+106,Exploring-Simulink-Design-Verifier-2,A Simulink Design Verifier applied to Autopilot Mode Transition,0,0,19,0,0
+107,Exploring-Design-Verifier-4,This has examples files for exploring Simulink Design Verifier,0,0,9,0,0
+108,PorT-Block---Proof-or-Test-Block-for-Simulink-Design-Verifier,A Simulink Design Verifier block to switch between proof and test and set requirement tags as well.,0,0,1,0,0
+109,CompleteAttDetSim,Demonstration of Conventional 2 Sensor Attitude Determination using VRML in Simulink,5,0,1,805,0
+110,SIMULINK-Models,Hub for CRPS Simulink models,0,0,1,0,0
+111,insulin-glucose-model,My implementation of a insulin-glucose model on MATLAB and Simulink,1,0,3,780,0
+112,python_SimulinkDLL,Run your Simulink models as DLLs with Python.,0,0,2,0,0
+113,Automated-Paint-Brush,Using MATLAB/Simulink to model a PRR robotic arm with PID Controllers,0,0,5,205,0
+114,AS-Parallel-Serial,"Simulink models and MATLAB functions associated with the manuscript ""Anticipation from Sensation: Using Anticipating Synchronisation to Stabilise a System with Inherent Sensory Delay""",0,0,2,0,0
+115,uuv,Matlab/Simulink model of UUV dynamics,5,8,3,861,0
+116,lib_DEVKITMPC5744P,Higher level abstraction layer for DEVKIT_MPC5744P Simulink Models,1,0,1,845,0
+117,cf-geometric-matlab,A Simulink implementation of the geometric controller on a simple Crazyflie model,1,0,1,715,0
+118,ELEC341,PID Control Project in MATLAB and Simulink for 3rd year controls course ELEC 341 at UBC,0,0,2,549,0
+119,simulink_mavlink,MAVLink communication support for Simulink,11,14,1,735,0
+120,Simulink-LTE-16QAM,"This is one of the first approaches to an LTE Simulink model that was developed in the world, back in 2013. It is based on  Turbo Coding, 16-QAM, OFDM and pilots. ",3,3,1,786,0
+121,arduino_CAN,MATLAB-Simulink code generation library for Arduino SparkFun CAN-BUS Shield,0,0,4,0,0
+122,SBGC-Simulink,Implementation of the SBGC API in Simulink,0,0,1,4,0
+123,Lego_nxt_car,MATLAB /SIMULINK aplicado em Lego NXT Mindstorm,0,0,1,0,0
+124,SimulinkToolchain,"Simulink Toolchain Repository for Soft-Realtime code generation with the basic structure, utilising Git submodules, and, some managment scripts.",2,0,2,707,0
+125,SimulinkBlock_RehaMove3,The RehaMove3 block for the Soft-Realtime Simulink toolbox found at https://github.com/worldwidemv/SimulinkToolchain.,1,0,5,723,0
+126,ros_sim_template,A ROS node template to embed Simulink generated C++ code,0,0,1,3,0
+127,Analysis_of_a_Nonlinear_Electromechanical_Plant,Analysis of a Nonlinear Electromechanical Plant in Matlab Using Simulink Model,1,0,2,605,0
+128,Synthesis_SS_Controller,Synthesis of SS Controller in Matlab using Simulink,1,1,1,603,0
+129,FoldingMechanisms,Simulink library for Folding Mechansims,0,1,1,168,0
+130,py-udp-autobox,Python and simulink files to send messages through ethernet(UDP) from linux to MicroAutobox,1,0,1,0,0
+131,car-following-model,Car following model created in Matlab/Simulink using the Intelligent Driver Model (IDM),8,3,1,671,0
+132,CU-Hyperloop,Full system simulation of the Hyperloop pod using Simulink for control system design and Simscape Multibody for CAD import of files.,1,0,2,107,0
+133,STM32_PIL_Example_Simulink,STM32 PIL example in Simulink,2,2,4,263,0
+134,Control-Systems-II-Labs,MATLAB/Simulink laboratory files for the UoM 3rd Year Control Systems II course,0,0,7,334,0
+135,bonsai-simulink,Bonsai's Simulink Househeat example using the Universal Coordinator,0,2,2,163,0
+136,7DOF-Rail-Mounted-Arm,Kinematic modelling and trajectory planning of a 6 DOF Vika 350 robotic arm mounted on rail (total 7DOF) using Matlab and Simulink.,2,2,1,110,0
+137,Simulation,Simulink simulations of the mechatronics systems,0,0,9,23,0
+138,SimulinkArduinoExamples,Examples of Simulink models on Arduino,1,0,12,135,0
+139,TrueTimeNCS,"This project is fork of TrueTime library, a framework for real-time simulation of networked control systems in MATLAB/Simulink.",0,1,25,0,0
+140,el5e22-srobot,Matlab / Simulink Robot struct command modelisation,0,0,6,4,0
+141,AutomationShield,Arduino library and MATLAB/Simulink API for the AutomationShield Arduino expansion boards for control engineering education.,8,5,14,605,0
+142,HyperloopFullSystemSim,Full system simulation of the Hyperloop pod using Simulink for control system design and Simscape Multibody for CAD import of files.,0,0,2,0,0
+143,WTD-Library,"Wind Turbine Dynamics (WTD) Library features a group of Simulink blocks for simulation of dynamic response of generic models of Wind Turbine Generators (WTG) on power system disturbances, which includes the General Electric (GE) Doubly Fed Induction Generator (DFIG) model. The WTD Library features a set of Simulink blocks that models GE DFIG as well as conventional steam and hydro generating units that are connected to a transmission grid. The Library also includes a set of Matlab m and S functions which are used for power flow calculation and initialization of state variables of the models of GE DFIG and conventional steam and hydro generating units. The WTD library is an open source simulation tool primarily aimed for educational/research purpose since it enables incorporation of user-defined Simulink models. The Library is especially suitable for development and testing of new algorithms for the control of WTG, like virtual inertia and primary frequency control algorithms.",1,0,6,272,0
+144,UDPMatLab-IEC104,Интерфейс обмена данными между Simulink Desktop Real-Time и внешними SCADA-системами по протоколу МЭК 60870-5-104,0,0,1,522,0
+145,simulink-pwm-inductor,"Source codes and models for manuscript “Simulink Model for PWM-Supplied Laminated Magnetic Cores Including Hysteresis, Eddy-Current and Excess Losses”",0,1,2,34,0
+146,Unknown-Input-Observer-Review-and-Examples,The UIO is reviewed in a PDF file and Simulink examples from control theory are given.,1,0,3,590,0
+147,OBD2-SocktCAN-Interface,This Simulink library/Add-On provides an OBD2 block for basic vehicle diagnostics.,0,2,11,9,0
+148,MATLAB,Projects done in MATLAB and Simulink,0,0,1,0,0
+149,Matlab_ODE,Didactic. Matlab-Simulink solve methods of ODE (Ordinary differential equation).,0,2,1,0,0
+150,Matlab_Simulink-GUI,"Didactic. Create a GUI to optimaze simulinks simulations: multiple variable change, multiple scopes, etc.",0,0,7,0,0
+151,Fuzzy-PID-DC-Motor-Matlab-Simulink,Design of Fuzzy Logic + PID Controller for DC Motor using Matlab and Simulink,4,3,1,584,0
+152,thesis-work,Matlab - Simulink codes that are related to my Ph.D. Thesis work,1,0,21,481,0
+153,TSAT,"The Thermal Systems Analysis Toolbox (TSAT) is a MATLAB/Simulink based tool for modeling and analysis of dynamic thermal systems involving heat transfer. It is best suited for 1-D and 2-D heat transfer involving solid planar and cylindrical structures, however, the toolset is more extensive than this. The tools enable consideration of conduction, convection, and radiation boundary conditions. Some advanced capabilities are provided when it comes to approximating conduction within non-isotropic materials, structures with material transitions, and structures with time-varying temperature dependent material properties. Numerous tools are available to facilitate the construction of modular models of thermal systems and their integration with larger system models.",10,8,100,503,0
+154,Full-Wave-Bridge-Rectifier,✨ A MATLAB implementation (Simulink Model) of a Full Wave Bridge Rectifier,1,0,1,490,0
+155,ANC-active_noise_control_headsets,Active noise control headsets simulated in Simulink,3,0,1,403,0
+156,specTransformer,A MATLAB class for transforming Simulink requirements into STL specifications. ,0,0,1,561,0
+157,Quad-Simulink-Simulation,This is a simulink based Quad-copter simulation. Play around!,1,0,5,253,0
+158,intercol-toolbox-simulink,In this repository we will include all the files required to run supply chain simulations implemented in SIMULINK,0,0,2,90,0
+159,SimDatabase,A MySQL extension for Simulink.,0,0,4,191,0
+160,Signal-tracking-using-Fuzzy-control-on-SIMULINK,Designed a fuzzy controller on Simulink to track the input signal in real time and selected the optimal parameters.,0,0,2,0,0
+161,Power-Electronics,"MATLAB codes and Simulink models for the Electric Drive Power Electronics Design, Simulation, and Analysis.",0,0,2,1,0
+162,Proyectos-MatLab,Proyectos con fines diversos programados con Matlab y herramientas propias del mismo como por ejemplo Simulink.,2,0,1,368,0
+163,model-s,Simulink model of the longitudinal control of a Tesla Model S.,0,1,2,350,0
+164,Robot_RRR_CyPR,Project to estimate dynamic parameters and control a RRR robot in Matlab/Simulink,0,0,28,282,0
+165,ProjSensSys,Projekt Sensorsysteme: Embedded Linux mit Pyhton und Simulink für ein Robotikprojekt,0,0,26,413,0
+166,senales-am,"Modulación y demodulación de sañales AM, usando MatLab y SimuLink.",1,0,3,322,0
+167,MATLAB_STM32,Project for STM32+CubeMx+Matlab/Simulink,0,0,3,0,0
+168,Inrto_Unmanned_Vehicles,Learn the basics of Unmanned Vehicles using MATLAB and Simulink,0,0,12,137,0
+169,IVR-Gen,IVR Optimisation and Design using MATLAB and Simulink,1,0,1,169,0
+170,matSSTMMC,MMC hybrid Control MATLAB SIMULINK (Paper Version),0,0,1,297,0
+171,self_balancing_robot,"This repository contains the firmware, PID Tunning on Simulink and ROS Navigation package for a Self-Balancing Robot.",2,0,11,155,0
+172,LinearControlModels,Linear Control Models in Simulink,0,0,3,319,0
+173,SIL,Tools for generating CFS ECI-compatible code from Simulink models,6,8,16,401,0
+174,Synchro_Drive_CyPR,Modelate and control of Syncro Drive robot in Matlab/Simulink.,0,1,7,42,0
+175,C_Code_Integration,C Code Integration in MATLAB and Simulink to Control an External Interface.,1,1,22,427,0
+176,PV_Loop,Pressure-Volume Loop Modeling and Control using Simulink,0,0,1,0,0
+177,Autoware_Toolbox,MATLAB/Simulink sample code suite for Autoware.,25,12,8,399,0
+178,Grappler,"This repository contains a Matlab/Simulink model for Grappler, a mechanism for gripping net-like structures to low gravity bodies. ",0,0,2,2,0
+179,Space-Robotics-and-Autonomy-,The purpose of this assignment is to develop skills in simulating the kinematics of a robot manipulator and designing a controller using Simulink and Matlab,0,0,1,0,0
+180,Kugle-MATLAB,"Main repository for the Kugle robot project. The repository contains the MATLAB code and Simulink models for the Kugle robot developed as part of the master thesis work. This includes a non-linear Quaternion ballbot model, Sliding mode attitude controller, Quaternion Extended Kalman filter and ACADO MPC for path-following.",101,22,24,405,0
+181,spaceshuttle,Specification and Simulink Models of the Space Shuttle On-Orbit Flight Control System,3,0,10,392,0
+182,ModelosNeuronales,"En esta serie de prácticas que realice en la universidad se muestran modelos neuronales simulados en simulink. Dentro de estos modelos se encuentran las neuronas tipo Perceptron, Adeline, Hebianna así como el modelo integra y dispara, el modelo HH y una red asociativa.",0,0,6,0,0
+183,Robot-control-Simulink,This simulink model connects to Gazebo simulator for simple kinematic control,0,0,1,0,0
+184,SelfNavigatingRobot,This project represents the code required to design a Simulink-based processing application to run on an Arduino Uno for a mot,0,0,6,305,0
+185,Simulink-iiwa-interface,An interface for controlling KUKA iiwa manipulators from Simulink,3,1,7,324,0
+186,FMIKit-Simulink,Import and export Functional Mock-up Units with Simulink,35,9,6,335,0
+187,easylink,EasyLink is a C++ software development kit for developing blocks for SIMULINK (S-functions),2,0,18,271,0
+188,Lorenz-Attractor,"This Matlab script & simulink defines Lorenz Attractor as it well known by chaotic system, it can be used for a lot of applications like cryptography and many more",0,0,1,0,0
+189,IBEX,MATLAB-SIMULINK script for circuit analysis of lambda/4 resonator for Arc Experiments,0,0,1,2,0
+190,Path-Following,Matlab/Simulink implementation of Path Following for a REMUS 100,1,0,1,248,0
+191,PID_buffer_silo,"Simulink model of a multiloop PID control of the mass outflow and height in a buffer silo, using a single measurement.",0,0,3,12,0
+192,electric_vehicle_simulation,Finding the traction energy for an electric vehicle by Matlab Simulink simulation ,0,0,5,0,0
+193,Analog-Modulation-Techniques,Analog Modulation Techniques (AM & FM) written in MATLAB & Simulink,2,0,2,103,0
+194,Sistemas_Hidraulicos_MATLAB,Arquivos do Webinar sobre Sistems Hidraulcios em MATLAB e SIMULINK,0,0,4,2,0
+195,Parametric-sweeping-in-Simulink-PSpice-co-simulation,Parametric sweeping in simulink & PSpice co-simulation by programming in matlab,0,0,1,236,0
+196,ICS-Injection_Attack_Toolbox,A MATLAB/Simulink Toolbox for Simulating Injection Attacks in ICS Infrastructure,0,0,1,44,0
+197,simulink,simulink工具箱,0,0,3,0,0
+198,simulink_python,使用simulink进行环境的模拟，使用python编写强化学习(rl)代码,0,0,4,49,0
+199,CS-TFM-PMU-Model,Simulink model for CS-TFM P- and M-class estimators,0,1,2,6,0
+200,MATLAB-Simulink-Control-Practice,This repository contains the code for Control Tutorial for MATLAB and Simulink .,0,0,4,85,0
+201,investmat2019,Modeling and control of a vehicle suspension in Matlab/Simulink,1,0,1,88,0
+202,cyber_physical_systems,MATLAB Simulink models made for course ECM1003 during FALL SEM 2019-20,0,0,2,0,0
+203,simulink_onramp,Course Notes and Simulink Models for Simulink Onramp Course by Mathworks ,0,0,3,1,0
+204,Simscape,Physics simulation using MATLAB and Simulink's Simscape Multibody,0,0,7,105,0
+205,simulink_library,Commonly used Simulink blocks,0,0,1,28,0
+206,simulink_models,Simulink models for speech and audio processing,0,1,62,91,0
+207,SatelliteAttitudeDynamics_simulink,Simulink model for Quaternion based Satellite Attitude dynamics and control,2,0,1,72,0
+208,SimPars,Transformation of Simulink models to DEPM,0,0,1,1,0
+209,UDPExample,Example UDP Receiver and Transmitter in Unity to communicate Unity projects with Matlab&Simulink.,1,1,1,90,0
+210,SPO-10,MATLAB-Simulink simulation of SPO-10,0,0,2,0,0
+211,RxSimex,ReactiveX-enabled Simulink framework,0,0,2,58,0
+212,Falsify,Falsification of MATLAB/Simulink model using deep reinforcement learning,0,0,12,0,0
+213,Simulink-XInput-Controller,Simulink Block / S-Function for Windows XInput API (XBOX Controller),0,0,5,123,0
+214,Arm6Dof_Sim,This is the open source project of the 6DoF robot arm Simulation based on Matlab Simulink,0,0,1,0,0
+215,designing-robot-manipulator-algorithms,MATLAB and Simulink files for modeling and simulation of ROBOTIS OpenManipulator,0,3,8,0,0
+216,UWMatlab,Matlab and Simulink software and tools.,0,0,93,29,0
+217,beginning-matlab-and-simulink,Source Code for 'Beginning MATLAB and Simulink' by Sulaymon Eshkabilov,1,2,10,25,0
+218,power-electronics-simulations,Power Electronics circuit simulations in MATLAB Simulink,0,0,5,44,0
+219,Simulink-Controls-Testbed,A simulink environment to perform flight simulations and to verify control algorithms,0,0,5,5,0
+220,v2b,Vector to bus conversion in Simulink,0,0,2,5,0
+221,2D_SFCL_Simulink,2D model of Superconducting fault current limiter on Matlab/Simulink,0,0,1,8,0
+222,modelling_and_control_of_manipulators,"Modelling and Ccntrol of vuarious manipulators using MATLAB, Simulink and ADAMS",1,0,14,12,0
+223,CAN-device-driver-mcp2515-for-Arduino-and-Raspberry-Pi-Dual-CAN-Support,This repository is modified MCP2515 library for Simulink with dual CAN devices,1,0,3,1,0
+224,simulink-telecommunications,Simulink models of some telecommunications techniques.,0,0,2,28,0
